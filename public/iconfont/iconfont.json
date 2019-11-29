@@ -1,0 +1,37 @@
+{
+  "id": "1537851",
+  "name": "smartisan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "锤子官网",
+  "glyphs": [
+    {
+      "icon_id": "683159",
+      "name": "wo-de-red",
+      "font_class": "mine-red",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "3436890",
+      "name": "菜单",
+      "font_class": "menu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3692669",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8807291",
+      "name": "首页-选中",
+      "font_class": "yemian-copy-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
